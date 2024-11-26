@@ -31,14 +31,14 @@ bash setup
 2. Select option 1
 3. Select your pak file
 4. And the result will be like this
-![Result](/screenshot/complete_extraction.jpg)
+![Result](/Chenui.jpg)
 
 ## Repacking
 1. Run ```bash setup```
 2. Select option 2
 3. Select your pak file
 4. And the result will be like this
-![Result](/screenshot/complete_repacking.jpg)
+![Result](/Chenui.jpg)
 5. Before and After Repacking
 ![Result](/screenshot/beforeafter_repacking.jpg)
 
