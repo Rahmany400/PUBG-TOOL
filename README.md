@@ -18,7 +18,6 @@ git clone https://github.com/CHEN-LITE/PUBG-TOOL.git
 5. Open PUBG_OBB directory and run setup.
 ```
 cd PUBG-OBB
-chmod 775 setup
 bash setup
 ```
 6. Done.
