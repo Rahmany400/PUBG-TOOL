@@ -1,4 +1,4 @@
-#Modified by @CHEN_TOOL
+#Modified by @rahmanyhacker
 #!/bin/bash
 
 source etc/banner
@@ -13,7 +13,7 @@ play_voice() {
     mpv "$message" > /dev/null 2>&1
 }   
 function redirect {
- echo -e "${LIGHTGREEN}STARTING CHEN-TOOL${NOCOLOR}"
+ echo -e "${LIGHTGREEN}STARTING RAHMANY-TOOL${NOCOLOR}"
  echo -ne '#####                     (33%)\r'
  sleep 1
  echo -ne '#############             (66%)\r'
