@@ -1,4 +1,4 @@
-# CHEN-LITE OBB TOOL
+# RAHMANYHACKER OBB TOOL
 _CHEN-LITE_OBB is a tool created to modify the PUBG Mobile PUBG LITE BGMI OBB PAK file. This tool is still in the process of being developed and unstable, however, this tool can extract pak files and the results can be read by a text editor._
 
 ## Installing
