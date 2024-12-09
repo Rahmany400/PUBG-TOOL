@@ -1,5 +1,5 @@
 # Rahmanyhacker OBB TOOL
-_CHEN-LITE_OBB is a tool created to modify the PUBG Mobile PUBG LITE BGMI OBB PAK file. This tool is still in the process of being developed and unstable, however, this tool can extract pak files and the results can be read by a text editor._
+_RAHMANY_OBB is a tool created to modify the PUBG Mobile PUBG LITE BGMI OBB PAK file. This tool is still in the process of being developed and unstable, however, this tool can extract pak files and the results can be read by a text editor._
 
 ## Installing
 1. Install Termux from PlayStore,
@@ -13,7 +13,7 @@ pkg install git
 ```
 4. Clone this repository
 ```
-git clone https://github.com/RAHMANYHACKER/PUBG-TOOL.git
+git clone https://github.com/Rahmany400/PUBG-TOOL.git
 ```
 5. Open PUBG_OBB directory and run setup.
 ```
